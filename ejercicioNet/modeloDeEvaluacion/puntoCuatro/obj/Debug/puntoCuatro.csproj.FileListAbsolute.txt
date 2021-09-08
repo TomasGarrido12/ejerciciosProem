@@ -1,0 +1,7 @@
+D:\dotNet\modeloDeEvaluacion\puntoCuatro\bin\Debug\puntoCuatro.exe.config
+D:\dotNet\modeloDeEvaluacion\puntoCuatro\bin\Debug\puntoCuatro.exe
+D:\dotNet\modeloDeEvaluacion\puntoCuatro\bin\Debug\puntoCuatro.pdb
+D:\dotNet\modeloDeEvaluacion\puntoCuatro\obj\Debug\puntoCuatro.csproj.AssemblyReference.cache
+D:\dotNet\modeloDeEvaluacion\puntoCuatro\obj\Debug\puntoCuatro.csproj.CoreCompileInputs.cache
+D:\dotNet\modeloDeEvaluacion\puntoCuatro\obj\Debug\puntoCuatro.exe
+D:\dotNet\modeloDeEvaluacion\puntoCuatro\obj\Debug\puntoCuatro.pdb

@@ -1,0 +1,7 @@
+D:\dotNet\modeloDeEvaluacion\puntoCinco\bin\Debug\puntoCinco.exe.config
+D:\dotNet\modeloDeEvaluacion\puntoCinco\bin\Debug\puntoCinco.exe
+D:\dotNet\modeloDeEvaluacion\puntoCinco\bin\Debug\puntoCinco.pdb
+D:\dotNet\modeloDeEvaluacion\puntoCinco\obj\Debug\puntoCinco.csproj.CoreCompileInputs.cache
+D:\dotNet\modeloDeEvaluacion\puntoCinco\obj\Debug\puntoCinco.exe
+D:\dotNet\modeloDeEvaluacion\puntoCinco\obj\Debug\puntoCinco.pdb
+D:\dotNet\modeloDeEvaluacion\puntoCinco\obj\Debug\puntoCinco.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\dotNet\modeloDeEvaluacion\ejercicio8\bin\Debug\ejercicio8.exe.config
+D:\dotNet\modeloDeEvaluacion\ejercicio8\bin\Debug\ejercicio8.exe
+D:\dotNet\modeloDeEvaluacion\ejercicio8\bin\Debug\ejercicio8.pdb
+D:\dotNet\modeloDeEvaluacion\ejercicio8\obj\Debug\ejercicio8.csproj.CoreCompileInputs.cache
+D:\dotNet\modeloDeEvaluacion\ejercicio8\obj\Debug\ejercicio8.exe
+D:\dotNet\modeloDeEvaluacion\ejercicio8\obj\Debug\ejercicio8.pdb

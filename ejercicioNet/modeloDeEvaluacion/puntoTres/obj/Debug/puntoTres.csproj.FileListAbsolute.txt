@@ -1,0 +1,7 @@
+D:\dotNet\modeloDeEvaluacion\puntoTres\bin\Debug\puntoTres.exe.config
+D:\dotNet\modeloDeEvaluacion\puntoTres\bin\Debug\puntoTres.exe
+D:\dotNet\modeloDeEvaluacion\puntoTres\bin\Debug\puntoTres.pdb
+D:\dotNet\modeloDeEvaluacion\puntoTres\obj\Debug\puntoTres.csproj.AssemblyReference.cache
+D:\dotNet\modeloDeEvaluacion\puntoTres\obj\Debug\puntoTres.csproj.CoreCompileInputs.cache
+D:\dotNet\modeloDeEvaluacion\puntoTres\obj\Debug\puntoTres.exe
+D:\dotNet\modeloDeEvaluacion\puntoTres\obj\Debug\puntoTres.pdb

@@ -1,0 +1,7 @@
+D:\dotNet\modeloDeEvaluacion\ejercicioDos\bin\Debug\ejercicioDos.exe.config
+D:\dotNet\modeloDeEvaluacion\ejercicioDos\bin\Debug\ejercicioDos.exe
+D:\dotNet\modeloDeEvaluacion\ejercicioDos\bin\Debug\ejercicioDos.pdb
+D:\dotNet\modeloDeEvaluacion\ejercicioDos\obj\Debug\ejercicioDos.csproj.CoreCompileInputs.cache
+D:\dotNet\modeloDeEvaluacion\ejercicioDos\obj\Debug\ejercicioDos.exe
+D:\dotNet\modeloDeEvaluacion\ejercicioDos\obj\Debug\ejercicioDos.pdb
+D:\dotNet\modeloDeEvaluacion\ejercicioDos\obj\Debug\ejercicioDos.csproj.AssemblyReference.cache

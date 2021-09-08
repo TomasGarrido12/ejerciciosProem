@@ -1,0 +1,7 @@
+D:\dotNet\modeloDeEvaluacion\modeloDeEvaluacion\bin\Debug\modeloDeEvaluacion.exe.config
+D:\dotNet\modeloDeEvaluacion\modeloDeEvaluacion\bin\Debug\modeloDeEvaluacion.exe
+D:\dotNet\modeloDeEvaluacion\modeloDeEvaluacion\bin\Debug\modeloDeEvaluacion.pdb
+D:\dotNet\modeloDeEvaluacion\modeloDeEvaluacion\obj\Debug\puntoUno.csproj.AssemblyReference.cache
+D:\dotNet\modeloDeEvaluacion\modeloDeEvaluacion\obj\Debug\puntoUno.csproj.CoreCompileInputs.cache
+D:\dotNet\modeloDeEvaluacion\modeloDeEvaluacion\obj\Debug\modeloDeEvaluacion.exe
+D:\dotNet\modeloDeEvaluacion\modeloDeEvaluacion\obj\Debug\modeloDeEvaluacion.pdb

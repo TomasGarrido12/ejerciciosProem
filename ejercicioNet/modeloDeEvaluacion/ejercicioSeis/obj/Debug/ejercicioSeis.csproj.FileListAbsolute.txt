@@ -1,0 +1,7 @@
+D:\dotNet\modeloDeEvaluacion\ejercicioSeis\bin\Debug\ejercicioSeis.exe.config
+D:\dotNet\modeloDeEvaluacion\ejercicioSeis\bin\Debug\ejercicioSeis.exe
+D:\dotNet\modeloDeEvaluacion\ejercicioSeis\bin\Debug\ejercicioSeis.pdb
+D:\dotNet\modeloDeEvaluacion\ejercicioSeis\obj\Debug\ejercicioSeis.csproj.AssemblyReference.cache
+D:\dotNet\modeloDeEvaluacion\ejercicioSeis\obj\Debug\ejercicioSeis.csproj.CoreCompileInputs.cache
+D:\dotNet\modeloDeEvaluacion\ejercicioSeis\obj\Debug\ejercicioSeis.exe
+D:\dotNet\modeloDeEvaluacion\ejercicioSeis\obj\Debug\ejercicioSeis.pdb
