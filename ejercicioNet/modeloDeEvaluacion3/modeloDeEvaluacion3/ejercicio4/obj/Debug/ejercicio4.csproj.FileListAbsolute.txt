@@ -1,0 +1,7 @@
+D:\Proem\ejerciciosProem\ejercicioNet\modeloDeEvaluacion3\modeloDeEvaluacion3\ejercicio4\bin\Debug\ejercicio4.exe.config
+D:\Proem\ejerciciosProem\ejercicioNet\modeloDeEvaluacion3\modeloDeEvaluacion3\ejercicio4\bin\Debug\ejercicio4.exe
+D:\Proem\ejerciciosProem\ejercicioNet\modeloDeEvaluacion3\modeloDeEvaluacion3\ejercicio4\bin\Debug\ejercicio4.pdb
+D:\Proem\ejerciciosProem\ejercicioNet\modeloDeEvaluacion3\modeloDeEvaluacion3\ejercicio4\obj\Debug\ejercicio4.csproj.AssemblyReference.cache
+D:\Proem\ejerciciosProem\ejercicioNet\modeloDeEvaluacion3\modeloDeEvaluacion3\ejercicio4\obj\Debug\ejercicio4.csproj.CoreCompileInputs.cache
+D:\Proem\ejerciciosProem\ejercicioNet\modeloDeEvaluacion3\modeloDeEvaluacion3\ejercicio4\obj\Debug\ejercicio4.exe
+D:\Proem\ejerciciosProem\ejercicioNet\modeloDeEvaluacion3\modeloDeEvaluacion3\ejercicio4\obj\Debug\ejercicio4.pdb
