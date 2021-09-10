@@ -1,0 +1,7 @@
+D:\dotNet\Ejercicios IfElse\EjercicioArray4\bin\Debug\EjercicioArray4.exe.config
+D:\dotNet\Ejercicios IfElse\EjercicioArray4\bin\Debug\EjercicioArray4.exe
+D:\dotNet\Ejercicios IfElse\EjercicioArray4\bin\Debug\EjercicioArray4.pdb
+D:\dotNet\Ejercicios IfElse\EjercicioArray4\obj\Debug\EjercicioArray4.csproj.AssemblyReference.cache
+D:\dotNet\Ejercicios IfElse\EjercicioArray4\obj\Debug\EjercicioArray4.csproj.CoreCompileInputs.cache
+D:\dotNet\Ejercicios IfElse\EjercicioArray4\obj\Debug\EjercicioArray4.exe
+D:\dotNet\Ejercicios IfElse\EjercicioArray4\obj\Debug\EjercicioArray4.pdb

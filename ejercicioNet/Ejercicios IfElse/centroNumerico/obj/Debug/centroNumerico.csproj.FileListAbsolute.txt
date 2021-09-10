@@ -1,0 +1,7 @@
+D:\dotNet\Ejercicios IfElse\centroNumerico\bin\Debug\centroNumerico.exe.config
+D:\dotNet\Ejercicios IfElse\centroNumerico\bin\Debug\centroNumerico.exe
+D:\dotNet\Ejercicios IfElse\centroNumerico\bin\Debug\centroNumerico.pdb
+D:\dotNet\Ejercicios IfElse\centroNumerico\obj\Debug\centroNumerico.csproj.AssemblyReference.cache
+D:\dotNet\Ejercicios IfElse\centroNumerico\obj\Debug\centroNumerico.csproj.CoreCompileInputs.cache
+D:\dotNet\Ejercicios IfElse\centroNumerico\obj\Debug\centroNumerico.exe
+D:\dotNet\Ejercicios IfElse\centroNumerico\obj\Debug\centroNumerico.pdb

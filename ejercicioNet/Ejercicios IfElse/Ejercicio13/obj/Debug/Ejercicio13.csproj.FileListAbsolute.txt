@@ -1,0 +1,7 @@
+D:\dotNet\Ejercicios IfElse\Ejercicio13\bin\Debug\Ejercicio13.exe.config
+D:\dotNet\Ejercicios IfElse\Ejercicio13\bin\Debug\Ejercicio13.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio13\bin\Debug\Ejercicio13.pdb
+D:\dotNet\Ejercicios IfElse\Ejercicio13\obj\Debug\Ejercicio13.csproj.AssemblyReference.cache
+D:\dotNet\Ejercicios IfElse\Ejercicio13\obj\Debug\Ejercicio13.csproj.CoreCompileInputs.cache
+D:\dotNet\Ejercicios IfElse\Ejercicio13\obj\Debug\Ejercicio13.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio13\obj\Debug\Ejercicio13.pdb

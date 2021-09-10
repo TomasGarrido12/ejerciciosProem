@@ -1,0 +1,7 @@
+D:\dotNet\Ejercicios IfElse\EjercicioPalindromo\bin\Debug\EjercicioPalindromo.exe.config
+D:\dotNet\Ejercicios IfElse\EjercicioPalindromo\bin\Debug\EjercicioPalindromo.exe
+D:\dotNet\Ejercicios IfElse\EjercicioPalindromo\bin\Debug\EjercicioPalindromo.pdb
+D:\dotNet\Ejercicios IfElse\EjercicioPalindromo\obj\Debug\EjercicioPalindromo.csproj.AssemblyReference.cache
+D:\dotNet\Ejercicios IfElse\EjercicioPalindromo\obj\Debug\EjercicioPalindromo.csproj.CoreCompileInputs.cache
+D:\dotNet\Ejercicios IfElse\EjercicioPalindromo\obj\Debug\EjercicioPalindromo.exe
+D:\dotNet\Ejercicios IfElse\EjercicioPalindromo\obj\Debug\EjercicioPalindromo.pdb

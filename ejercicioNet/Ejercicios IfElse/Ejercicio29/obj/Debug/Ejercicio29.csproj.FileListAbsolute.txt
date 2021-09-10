@@ -1,0 +1,7 @@
+D:\dotNet\Ejercicios IfElse\Ejercicio29\bin\Debug\Ejercicio29.exe.config
+D:\dotNet\Ejercicios IfElse\Ejercicio29\bin\Debug\Ejercicio29.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio29\bin\Debug\Ejercicio29.pdb
+D:\dotNet\Ejercicios IfElse\Ejercicio29\obj\Debug\Ejercicio29.csproj.AssemblyReference.cache
+D:\dotNet\Ejercicios IfElse\Ejercicio29\obj\Debug\Ejercicio29.csproj.CoreCompileInputs.cache
+D:\dotNet\Ejercicios IfElse\Ejercicio29\obj\Debug\Ejercicio29.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio29\obj\Debug\Ejercicio29.pdb

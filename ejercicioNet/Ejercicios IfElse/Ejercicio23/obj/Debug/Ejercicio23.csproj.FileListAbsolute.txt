@@ -1,0 +1,6 @@
+D:\dotNet\Ejercicios IfElse\Ejercicio23\bin\Debug\Ejercicio23.exe.config
+D:\dotNet\Ejercicios IfElse\Ejercicio23\bin\Debug\Ejercicio23.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio23\bin\Debug\Ejercicio23.pdb
+D:\dotNet\Ejercicios IfElse\Ejercicio23\obj\Debug\Ejercicio23.csproj.CoreCompileInputs.cache
+D:\dotNet\Ejercicios IfElse\Ejercicio23\obj\Debug\Ejercicio23.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio23\obj\Debug\Ejercicio23.pdb

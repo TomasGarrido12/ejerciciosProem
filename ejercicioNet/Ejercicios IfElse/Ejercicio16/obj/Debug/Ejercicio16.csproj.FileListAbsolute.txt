@@ -1,0 +1,6 @@
+D:\dotNet\Ejercicios IfElse\Ejercicio16\bin\Debug\Ejercicio16.exe.config
+D:\dotNet\Ejercicios IfElse\Ejercicio16\bin\Debug\Ejercicio16.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio16\bin\Debug\Ejercicio16.pdb
+D:\dotNet\Ejercicios IfElse\Ejercicio16\obj\Debug\Ejercicio16.csproj.CoreCompileInputs.cache
+D:\dotNet\Ejercicios IfElse\Ejercicio16\obj\Debug\Ejercicio16.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio16\obj\Debug\Ejercicio16.pdb

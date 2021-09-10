@@ -1,0 +1,6 @@
+D:\dotNet\Ejercicios IfElse\EjercicioIfElse\bin\Debug\EjercicioIfElse.exe.config
+D:\dotNet\Ejercicios IfElse\EjercicioIfElse\bin\Debug\EjercicioIfElse.exe
+D:\dotNet\Ejercicios IfElse\EjercicioIfElse\bin\Debug\EjercicioIfElse.pdb
+D:\dotNet\Ejercicios IfElse\EjercicioIfElse\obj\Debug\EjercicioIfElse.csproj.CoreCompileInputs.cache
+D:\dotNet\Ejercicios IfElse\EjercicioIfElse\obj\Debug\EjercicioIfElse.exe
+D:\dotNet\Ejercicios IfElse\EjercicioIfElse\obj\Debug\EjercicioIfElse.pdb

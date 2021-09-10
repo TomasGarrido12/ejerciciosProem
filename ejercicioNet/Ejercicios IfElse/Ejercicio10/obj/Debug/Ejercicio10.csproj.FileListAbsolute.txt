@@ -1,0 +1,7 @@
+D:\dotNet\Ejercicios IfElse\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+D:\dotNet\Ejercicios IfElse\Ejercicio10\bin\Debug\Ejercicio10.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio10\bin\Debug\Ejercicio10.pdb
+D:\dotNet\Ejercicios IfElse\Ejercicio10\obj\Debug\Ejercicio10.csproj.AssemblyReference.cache
+D:\dotNet\Ejercicios IfElse\Ejercicio10\obj\Debug\Ejercicio10.csproj.CoreCompileInputs.cache
+D:\dotNet\Ejercicios IfElse\Ejercicio10\obj\Debug\Ejercicio10.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio10\obj\Debug\Ejercicio10.pdb

@@ -1,0 +1,7 @@
+D:\dotNet\Ejercicios IfElse\Ejercicio25\bin\Debug\Ejercicio25.exe.config
+D:\dotNet\Ejercicios IfElse\Ejercicio25\bin\Debug\Ejercicio25.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio25\bin\Debug\Ejercicio25.pdb
+D:\dotNet\Ejercicios IfElse\Ejercicio25\obj\Debug\Ejercicio25.csproj.CoreCompileInputs.cache
+D:\dotNet\Ejercicios IfElse\Ejercicio25\obj\Debug\Ejercicio25.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio25\obj\Debug\Ejercicio25.pdb
+D:\dotNet\Ejercicios IfElse\Ejercicio25\obj\Debug\Ejercicio25.csproj.AssemblyReference.cache

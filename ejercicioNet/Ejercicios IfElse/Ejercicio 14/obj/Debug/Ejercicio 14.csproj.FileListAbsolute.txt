@@ -1,0 +1,7 @@
+D:\dotNet\Ejercicios IfElse\Ejercicio 14\bin\Debug\Ejercicio 14.exe.config
+D:\dotNet\Ejercicios IfElse\Ejercicio 14\bin\Debug\Ejercicio 14.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio 14\bin\Debug\Ejercicio 14.pdb
+D:\dotNet\Ejercicios IfElse\Ejercicio 14\obj\Debug\Ejercicio 14.csproj.AssemblyReference.cache
+D:\dotNet\Ejercicios IfElse\Ejercicio 14\obj\Debug\Ejercicio 14.csproj.CoreCompileInputs.cache
+D:\dotNet\Ejercicios IfElse\Ejercicio 14\obj\Debug\Ejercicio 14.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio 14\obj\Debug\Ejercicio 14.pdb

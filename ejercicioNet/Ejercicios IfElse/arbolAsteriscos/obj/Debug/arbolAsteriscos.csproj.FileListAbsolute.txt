@@ -1,0 +1,7 @@
+D:\dotNet\Ejercicios IfElse\arbolAsteriscos\bin\Debug\arbolAsteriscos.exe.config
+D:\dotNet\Ejercicios IfElse\arbolAsteriscos\bin\Debug\arbolAsteriscos.exe
+D:\dotNet\Ejercicios IfElse\arbolAsteriscos\bin\Debug\arbolAsteriscos.pdb
+D:\dotNet\Ejercicios IfElse\arbolAsteriscos\obj\Debug\arbolAsteriscos.csproj.AssemblyReference.cache
+D:\dotNet\Ejercicios IfElse\arbolAsteriscos\obj\Debug\arbolAsteriscos.csproj.CoreCompileInputs.cache
+D:\dotNet\Ejercicios IfElse\arbolAsteriscos\obj\Debug\arbolAsteriscos.exe
+D:\dotNet\Ejercicios IfElse\arbolAsteriscos\obj\Debug\arbolAsteriscos.pdb

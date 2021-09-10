@@ -1,0 +1,7 @@
+D:\dotNet\Ejercicios IfElse\EjercicioArrayEnClase\bin\Debug\EjercicioArrayEnClase.exe.config
+D:\dotNet\Ejercicios IfElse\EjercicioArrayEnClase\bin\Debug\EjercicioArrayEnClase.exe
+D:\dotNet\Ejercicios IfElse\EjercicioArrayEnClase\bin\Debug\EjercicioArrayEnClase.pdb
+D:\dotNet\Ejercicios IfElse\EjercicioArrayEnClase\obj\Debug\EjercicioArrayEnClase.csproj.AssemblyReference.cache
+D:\dotNet\Ejercicios IfElse\EjercicioArrayEnClase\obj\Debug\EjercicioArrayEnClase.csproj.CoreCompileInputs.cache
+D:\dotNet\Ejercicios IfElse\EjercicioArrayEnClase\obj\Debug\EjercicioArrayEnClase.exe
+D:\dotNet\Ejercicios IfElse\EjercicioArrayEnClase\obj\Debug\EjercicioArrayEnClase.pdb

@@ -1,0 +1,7 @@
+D:\dotNet\Ejercicios IfElse\Ejercicio37\bin\Debug\Ejercicio37.exe.config
+D:\dotNet\Ejercicios IfElse\Ejercicio37\bin\Debug\Ejercicio37.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio37\bin\Debug\Ejercicio37.pdb
+D:\dotNet\Ejercicios IfElse\Ejercicio37\obj\Debug\Ejercicio37.csproj.CoreCompileInputs.cache
+D:\dotNet\Ejercicios IfElse\Ejercicio37\obj\Debug\Ejercicio37.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio37\obj\Debug\Ejercicio37.pdb
+D:\dotNet\Ejercicios IfElse\Ejercicio37\obj\Debug\Ejercicio37.csproj.AssemblyReference.cache

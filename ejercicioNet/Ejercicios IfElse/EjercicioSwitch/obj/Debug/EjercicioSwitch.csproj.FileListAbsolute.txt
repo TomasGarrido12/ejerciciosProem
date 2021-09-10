@@ -1,0 +1,7 @@
+D:\dotNet\Ejercicios IfElse\EjercicioSwitch\bin\Debug\EjercicioSwitch.exe.config
+D:\dotNet\Ejercicios IfElse\EjercicioSwitch\bin\Debug\EjercicioSwitch.exe
+D:\dotNet\Ejercicios IfElse\EjercicioSwitch\bin\Debug\EjercicioSwitch.pdb
+D:\dotNet\Ejercicios IfElse\EjercicioSwitch\obj\Debug\EjercicioSwitch.csproj.AssemblyReference.cache
+D:\dotNet\Ejercicios IfElse\EjercicioSwitch\obj\Debug\EjercicioSwitch.csproj.CoreCompileInputs.cache
+D:\dotNet\Ejercicios IfElse\EjercicioSwitch\obj\Debug\EjercicioSwitch.exe
+D:\dotNet\Ejercicios IfElse\EjercicioSwitch\obj\Debug\EjercicioSwitch.pdb

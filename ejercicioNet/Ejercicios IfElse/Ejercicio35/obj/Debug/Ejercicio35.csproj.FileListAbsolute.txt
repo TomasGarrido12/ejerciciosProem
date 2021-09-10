@@ -1,0 +1,7 @@
+D:\dotNet\Ejercicios IfElse\Ejercicio35\bin\Debug\Ejercicio35.exe.config
+D:\dotNet\Ejercicios IfElse\Ejercicio35\bin\Debug\Ejercicio35.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio35\bin\Debug\Ejercicio35.pdb
+D:\dotNet\Ejercicios IfElse\Ejercicio35\obj\Debug\Ejercicio35.csproj.CoreCompileInputs.cache
+D:\dotNet\Ejercicios IfElse\Ejercicio35\obj\Debug\Ejercicio35.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio35\obj\Debug\Ejercicio35.pdb
+D:\dotNet\Ejercicios IfElse\Ejercicio35\obj\Debug\Ejercicio35.csproj.AssemblyReference.cache

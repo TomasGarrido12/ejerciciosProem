@@ -1,0 +1,6 @@
+D:\dotNet\Ejercicios IfElse\EjercicioArray5\bin\Debug\EjercicioArray5.exe.config
+D:\dotNet\Ejercicios IfElse\EjercicioArray5\bin\Debug\EjercicioArray5.exe
+D:\dotNet\Ejercicios IfElse\EjercicioArray5\bin\Debug\EjercicioArray5.pdb
+D:\dotNet\Ejercicios IfElse\EjercicioArray5\obj\Debug\EjercicioArray5.csproj.CoreCompileInputs.cache
+D:\dotNet\Ejercicios IfElse\EjercicioArray5\obj\Debug\EjercicioArray5.exe
+D:\dotNet\Ejercicios IfElse\EjercicioArray5\obj\Debug\EjercicioArray5.pdb

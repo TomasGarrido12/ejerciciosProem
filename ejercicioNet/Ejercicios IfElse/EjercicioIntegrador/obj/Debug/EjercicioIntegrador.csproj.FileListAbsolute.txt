@@ -1,0 +1,7 @@
+D:\dotNet\Ejercicios IfElse\EjercicioIntegrador\bin\Debug\EjercicioIntegrador.exe.config
+D:\dotNet\Ejercicios IfElse\EjercicioIntegrador\bin\Debug\EjercicioIntegrador.exe
+D:\dotNet\Ejercicios IfElse\EjercicioIntegrador\bin\Debug\EjercicioIntegrador.pdb
+D:\dotNet\Ejercicios IfElse\EjercicioIntegrador\obj\Debug\EjercicioIntegrador.csproj.AssemblyReference.cache
+D:\dotNet\Ejercicios IfElse\EjercicioIntegrador\obj\Debug\EjercicioIntegrador.csproj.CoreCompileInputs.cache
+D:\dotNet\Ejercicios IfElse\EjercicioIntegrador\obj\Debug\EjercicioIntegrador.exe
+D:\dotNet\Ejercicios IfElse\EjercicioIntegrador\obj\Debug\EjercicioIntegrador.pdb

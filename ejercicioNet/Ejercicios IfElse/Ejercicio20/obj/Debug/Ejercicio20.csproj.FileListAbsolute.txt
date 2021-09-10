@@ -1,0 +1,7 @@
+D:\dotNet\Ejercicios IfElse\Ejercicio20\bin\Debug\Ejercicio20.exe.config
+D:\dotNet\Ejercicios IfElse\Ejercicio20\bin\Debug\Ejercicio20.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio20\bin\Debug\Ejercicio20.pdb
+D:\dotNet\Ejercicios IfElse\Ejercicio20\obj\Debug\Ejercicio20.csproj.CoreCompileInputs.cache
+D:\dotNet\Ejercicios IfElse\Ejercicio20\obj\Debug\Ejercicio20.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio20\obj\Debug\Ejercicio20.pdb
+D:\dotNet\Ejercicios IfElse\Ejercicio20\obj\Debug\Ejercicio20.csproj.AssemblyReference.cache

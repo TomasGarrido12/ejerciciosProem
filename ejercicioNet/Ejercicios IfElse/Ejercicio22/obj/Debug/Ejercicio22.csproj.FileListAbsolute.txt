@@ -1,0 +1,7 @@
+D:\dotNet\Ejercicios IfElse\Ejercicio22\bin\Debug\Ejercicio22.exe.config
+D:\dotNet\Ejercicios IfElse\Ejercicio22\bin\Debug\Ejercicio22.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio22\bin\Debug\Ejercicio22.pdb
+D:\dotNet\Ejercicios IfElse\Ejercicio22\obj\Debug\Ejercicio22.csproj.AssemblyReference.cache
+D:\dotNet\Ejercicios IfElse\Ejercicio22\obj\Debug\Ejercicio22.csproj.CoreCompileInputs.cache
+D:\dotNet\Ejercicios IfElse\Ejercicio22\obj\Debug\Ejercicio22.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio22\obj\Debug\Ejercicio22.pdb

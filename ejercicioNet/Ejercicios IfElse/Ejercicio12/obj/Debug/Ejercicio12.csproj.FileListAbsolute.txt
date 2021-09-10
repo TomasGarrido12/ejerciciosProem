@@ -1,0 +1,7 @@
+D:\dotNet\Ejercicios IfElse\Ejercicio12\bin\Debug\Ejercicio12.exe.config
+D:\dotNet\Ejercicios IfElse\Ejercicio12\bin\Debug\Ejercicio12.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio12\bin\Debug\Ejercicio12.pdb
+D:\dotNet\Ejercicios IfElse\Ejercicio12\obj\Debug\Ejercicio12.csproj.AssemblyReference.cache
+D:\dotNet\Ejercicios IfElse\Ejercicio12\obj\Debug\Ejercicio12.csproj.CoreCompileInputs.cache
+D:\dotNet\Ejercicios IfElse\Ejercicio12\obj\Debug\Ejercicio12.exe
+D:\dotNet\Ejercicios IfElse\Ejercicio12\obj\Debug\Ejercicio12.pdb
